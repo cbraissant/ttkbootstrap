@@ -14,7 +14,7 @@ This approach uses a familiar pattern. However, there are a few differences:
 - use the `bootstyle` parameter to add keywords instead of using the `style` parameter.
 
 !!! note "Constants are preferred"
-    I prefer constants in the code over over strings. However, feel free to 
+    I prefer constants in the code over strings. However, feel free to 
     use a coding style that you feel comfortable with. The bootstyle keyword 
     API is very flexible, so make sure you [check out the syntax options](#keyword-usage).
 
